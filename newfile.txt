@@ -1,0 +1,1 @@
+Este es un archivo remoto creado remotamente en el repositorio/ this is a remotefile created in a remote repository.
